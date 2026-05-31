@@ -1,2 +1,2 @@
-pip install semgrep --quiet
-          semgrep scan --config auto --error src/
+Bash
+pip install semgrep
